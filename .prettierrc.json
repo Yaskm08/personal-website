@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "importOrder": ["^@mantine/(.*)$", "^next(.*)$", "^@/src/(.*)$"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
