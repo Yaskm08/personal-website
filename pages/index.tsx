@@ -17,6 +17,16 @@ export default function Home({ stars }: HomeProps) {
     <>
       <Head>
         <title>Yassine Kraiem - Home</title>
+        <meta name="title"
+              content="Yassine Kraiem | Computer Science Enthusiast, Business Innovator, and Community Leader" />
+        <meta name="description"
+              content="Welcome to the personal website of Yassine Kraiem, a Computer Science enthusiast, Business Innovator, and Community Leader. Explore my projects, achievements, and insights in technology and business." />
+        <meta name="keywords"
+              content="Yassine Kraiem, Computer Science, Business, Technology, Leadership, Alma College, Pathfinding Visualizer, International Studies" />
+        <meta property="og:title"
+              content="Yassine Kraiem | Computer Science Enthusiast, Business Innovator, and Community Leader" />
+        <meta property="og:description"
+              content="Welcome to the personal website of Yassine Kraiem. Explore my projects, achievements, and insights in technology and business." />
       </Head>
       <Box
         pos="relative"
